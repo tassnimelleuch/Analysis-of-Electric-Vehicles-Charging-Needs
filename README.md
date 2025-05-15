@@ -1,8 +1,5 @@
 # 🔌 EV Charging Infrastructure Demand Predictor
 
-![Demo Visualization](https://via.placeholder.com/800x400.png?text=EV+Charging+Cluster+Map)  
-*Predicting cities needing more charging stations using machine learning*
-
 ## 📌 Overview
 This project analyzes **Electric Vehicle (EV) adoption patterns** across US cities to:
 1. Cluster cities based on EV characteristics using K-Means
